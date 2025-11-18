@@ -14,7 +14,7 @@ const harmonious_dataset = dataset.map(
   row => row.filter(node => !node.cohemitonic) // Remove cohemitonic nodes
 ).filter(row => row.length !== 0); // Remove empty rows
 
-const Tau = 2 * Math.PI;
+const Tau = 2 * 3.142857142857143;
 
 const pitch_classes = [
   'A',
