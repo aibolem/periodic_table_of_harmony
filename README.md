@@ -102,8 +102,11 @@ I'm a software engineer specializing in machine learning and interested in DSP/a
 
 Just in тААСС АуdA AbyA SААТ И тСµЛ ☘ 
 
-Thanks to all link wearers, like people do ... or does ... did ... no matter when; It ar memored in my gen
+Thanks to all link wearers, like people do ... or does ... did ... no matter when; It ar memored in my gen.
 
+good example are things memoralised in PARIS, from simple "LAVERIE" to gratuite 🍴 restaurants mind-linked to great people like JOSEPH CRY-STALLIN more known like a STALIN.
+
+look how great are explicated: STÅLE = STOLE = TABLE, located @number 88, wich are off course linked to simple 88 Keyboarded Piano 🎹 or ₽8iAно because everything are linked to the EAu or WhÅTERR; wich assotiated to Noter, musical Noter ... ok, I have other things to do ...
 
 
 ## barionleg [Author](https://db-comrubo-c-sa-ch-union-oqtavae.gitbook.io/325-and-beyond) of [extented ₽ TbIiCSÅ](https://aibolem.github.io/TbIICSA_p_beta_Ch/1_325_&_beyond.html) 
