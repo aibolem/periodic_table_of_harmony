@@ -2,15 +2,18 @@
 
 Twelve-tone harmony visualized
 
-[![image][https://user-images.githubusercontent.com/74752740/130612698-b5a494ec-97c6-4bc2-a466-445bc9205791.png]](https://barionleg.github.io/periodic_ttonaton_table_of_harmony/)
+[<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b963a7da-4dc5-4386-b9fe-646347bd9ba5" />
+](https://barionleg.github.io/periodic_ttonaton_table_of_harmony)
 
-Check it out here: https://aibolem.github.io/periodic_table_of_harmony/
+
+
+Check it out here: https://aibolem.github.io/periodic_ttonaton_table_of_harmony/
 
 Table of Contents
 =================
 
-* [Periodic Table of Harmony](#periodic-table-of-harmony)
-   * [About The Periodic Table of Harmony](#about-the-periodic-table-of-harmony)
+* [periodic_ttonaton_table_of_harmony](#periodic-ttonaton-table-of-harmony)
+   * [About The periodic_ttonaton_table_of_harmony](#about-the-periodic-ttonaton-table-of-harmony)
    * [About the Website](#about-the-website)
       * [Navigation](#navigation)
       * [Selection](#selection)
@@ -86,7 +89,7 @@ The data used to build the graph lives in `data.js`. All the magic happens in `g
 Since I started this project I have changed the way I think about some musical concepts that I used in this project. I used to refer to the data type abstracting each scale type as a "harmony set" (among other things), but I have since arrived at a more nuanced and rigorous definition of things like chords, scales, modes, etc. What I formerly referred to as "harmony sets" I now call "interval cycles" or "scale types." I also don't describe the Periodic Table of Harmony (PToH) as a visualization of all *chords,* since chords requires a root, a voicing, and an expression in time. While the PToH can certainly be used as effectively an index of all scales and chords in 12-TET, the PToH is more accurately thought of as representing all possible scale types, not chords or chord qualities. I also had made references to "voices" in some documentation on the project. Voices are also features of chords, not scales or scale types, so I've removed those references. 
 
 ## Links
-The project is hosted on GitHub Pages here: https://aibolem.github.io/periodic_table_of_harmony/
+The project is hosted on GitHub Pages here: https://aibolem.github.io/periodic_ttonaton_table_of_harmony/
 
 Here are some links I have used or that may be useful for continuing this project:
 * https://www.data-to-viz.com/graph/network.html
@@ -104,9 +107,9 @@ Just in тААСС АуdA AbyA SААТ И тСµЛ ☘
 
 Thanks to all link wearers, like people do ... or does ... did ... no matter when; It ar memored in my gen
 
+Our scrips are back!
 
-
-## barionleg [Author](https://db-comrubo-c-sa-ch-union-oqtavae.gitbook.io/326-and-beyond) of [extented ₽ TbIiCSÅ](https://aibolem.github.io/TbIICSA_p_beta_Ch/1_326_&_beyond.html) 
+## d'barionleg ♬ Aibolem <> MelodiA 🎶  [Author](https://db-comrubo-c-sa-ch-union-oqtavae.gitbook.io/326-and-beyond) of [extented ₽ TbIiCSÅ](https://aibolem.github.io/TbIICSA_p_beta_Ch/1_326_&_beyond.html) 
 
 *[git wiki About](https://github.com/aibolem/TbIICSA_p_beta_Ch/wiki/326_&&_B%C3%A4yond_of_d'ARTZ_W%C3%84TTER)*
 
