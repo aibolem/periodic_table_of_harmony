@@ -95,6 +95,12 @@ Here are some links I have used or that may be useful for continuing this projec
 * https://www.data-to-viz.com/graph/network.html
 * https://bl.ocks.org/Andrew-Reid/a73f9af9ccd9ef901a0c33c624096049
 * https://stackoverflow.com/questions/39076826/how-to-rotate-any-shape-continuously-in-d3-js
+* 
+
+___
+___
+
+d'bARNOTATiO²H H²OTÅтØИЯАd'b
 
 
 ### Auth²or (poppulistic Au or Ai Thor of past civilisations). Today we say at we remembaerng ... 
