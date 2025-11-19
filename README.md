@@ -65,6 +65,11 @@ https://en.wikipedia.org/wiki/Piano_key_frequencies
 
 
 
+https://github.com/aibolem/dbarcasio/wiki/
+
+<img width="922" height="360" alt="image" src="https://github.com/user-attachments/assets/af2e4afb-95cb-42ec-8e43-abb94c23dd40" />
+
+
 https://github.com/aibolem/Color_Translator_austereich/wiki/
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/db0afc0e-bbfc-463a-84e3-885e3e09254e" />
